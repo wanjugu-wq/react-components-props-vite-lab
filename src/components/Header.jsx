@@ -1,5 +1,3 @@
-import blogData from "../data/blog";
-
 export default function Header({ name }) {
   return (
     <header>
